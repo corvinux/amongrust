@@ -32,4 +32,4 @@ How to undo: `amongrust IAMTHEIMPOSTER`
 
 DO NOT USE AMONGRUST IN YOUR COMPANY'S CODEBASE!!!
 
-Made with ❤️  by [Hiro](https://twitter.com/0x1hiro)
+Made with ❤️  by [0xHiro](https://twitter.com/hiro_codes)
